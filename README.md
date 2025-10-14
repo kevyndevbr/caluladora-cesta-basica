@@ -1,4 +1,4 @@
-# 🧮 Calculadora de Cesta Básica em C
+# 🧮 Calculadora Básica em C
 
 Este é o meu **primeiro projeto em C**, uma calculadora simples feita para praticar lógica de programação, entrada e saída de dados e estruturas condicionais.
 
